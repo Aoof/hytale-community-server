@@ -1,0 +1,6 @@
+{
+  "Group": "ca.aoof",
+  "Name": "communityserver",
+  "Version": "1.0.0",
+  "Main": "ca.aoof.communityserver.CommunityServer"
+}
